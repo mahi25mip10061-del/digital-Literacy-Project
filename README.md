@@ -28,27 +28,27 @@ The project includes a combination of practical activities such as designing an 
 
 ## Module-wise Summary
 
-### 🔹 Task 1: Digital Literacy Infographic
+### Task 1: Digital Literacy Infographic
 A one-page infographic was created using Canva to explain key concepts of digital literacy in a visually engaging format. The design includes topics such as safe internet practices, professional online presence, and the importance of digital skills for students.
 
 ---
 
-### 🔹 Task 2: Student Digital Portfolio
+### Task 2: Student Digital Portfolio
 Profiles were created and updated on platforms like GitHub, LinkedIn, and Kaggle. This task focused on building a professional identity, showcasing learning progress, and understanding how these platforms are used in academic and professional environments.
 
 ---
 
-### 🔹 Task 3: Coding & Collaboration Platforms
+### Task 3: Coding & Collaboration Platforms
 A beginner-level problem was solved on HackerRank to practice coding skills. Additionally, a Digital Literacy Awareness Quiz was created using Google Forms, and responses were collected and viewed using Google Sheets. This task helped in understanding both technical practice and collaboration tools.
 
 ---
 
-### 🔹 Task 4: Email & Digital Etiquette
+### Task 4: Email & Digital Etiquette
 Two professional emails were drafted — one requesting an assignment extension and another applying for an internship. A social media checklist was also created to highlight responsible online behavior. This task emphasized the importance of clear and professional digital communication.
 
 ---
 
-### 🔹 Task 5: Cybercrime Awareness
+### Task 5: Cybercrime Awareness
 A detailed case study on UPI payment fraud was created to understand how cybercrimes occur. A prevention checklist was also developed to provide practical safety tips for students, including secure online payment practices and reporting cybercrime.
 
 ---
